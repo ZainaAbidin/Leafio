@@ -1,0 +1,22 @@
+<resources>
+    <string name="tv_subtitle_input">Input plant data</string>
+    <string name="hint_nama">Plant Name</string>
+    <string name="hint_jenis_tanaman">Plant Type</string>
+    <string name="hint_tgl_siram">Watering (Daily / select day)</string>
+    <string name="hint_tgl_pupuk">Fertilizing (Interval in days)</string>
+    <string name="btn_buat_jadwal">Create Schedule</string>
+    <string name="desc_cal_siram">Select watering date</string>
+    <string name="desc_cal_pupuk">Select fertilizing date</string>
+    <string name="desc_back">Back</string>
+    <string name="tv_label_reminder">Reminder:</string>
+    <string name="default_plant_name">PLANT NAME</string>
+    <string name="tv_summary_placeholder">Schedule summary...</string>
+    <string name="summary_format">Type: %1$s\nWatering: %2$s\nFertilizing: %3$s</string>
+    <string name="default_note">Young leaves are a bit sensitive</string>
+    <string name="notif_active">Reminder for %1$s is now active!</string>
+    <string name="notif_denied">Notification permission denied. Reminder cannot appear.</string>
+    <string name="app_name">Leafio</string>
+    <string name="tv_title_daftar">Your Title Here</string>
+    <string name="tv_empty_state">Your Empty State Message Here</string>
+    <string name="welcome_text">Welcome to Leafio</string>
+</resources>

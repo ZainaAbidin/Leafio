@@ -1,0 +1,22 @@
+<resources>
+    <string name="tv_subtitle_input">Input data tanaman</string>
+    <string name="hint_nama">Nama Tanaman</string>
+    <string name="hint_jenis_tanaman">Jenis Tanaman</string>
+    <string name="hint_tgl_siram">Penyiraman (Harian / pilih hari)</string>
+    <string name="hint_tgl_pupuk">Pemupukan (Interval hari)</string>
+    <string name="btn_buat_jadwal">Buat Jadwal</string>
+    <string name="desc_cal_siram">Pilih tanggal penyiraman</string>
+    <string name="desc_cal_pupuk">Pilih tanggal pemupukan</string>
+    <string name="desc_back">Kembali</string>
+    <string name="tv_label_reminder">Pengingat:</string>
+    <string name="default_plant_name">NAMA TANAMAN</string>
+    <string name="tv_summary_placeholder">Ringkasan jadwal...</string>
+    <string name="summary_format">Jenis: %1$s\nPenyiraman: %2$s\nPemupukan: %3$s</string>
+    <string name="default_note">Daun muda agak sensitif</string>
+    <string name="notif_active">Pengingat untuk %1$s telah aktif!</string>
+    <string name="notif_denied">Izin notifikasi ditolak. Pengingat tidak bisa muncul.</string>
+    <string name="app_name">Leafio</string>
+    <string name="tv_title_daftar">Daftar Tanaman</string>
+    <string name="tv_empty_state">Belum ada tanaman yang ditambahkan.</string>
+    <string name="welcome_text">Selamat Datang di Leafio</string>
+</resources>
